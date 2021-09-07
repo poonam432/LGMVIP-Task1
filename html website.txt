@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">   
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width , initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Best online projects in india| zippy.com</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel&family=Rubik:wght@300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+
+<body>
+    <header class="header">
+        <div class="left">
+            <img src="logo1.png" alt="">
+            <div> ZIPPY.COM</div>
+        </div>
+        <div class="mid">
+            <ul class="navbar">
+                <li><a href="#" class="active">Home</a></li>
+                <li><a href="#">Projects</a></li>
+                <li><a href="#">Pricing</a></li>
+                <li><a href="#">Team</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </div>
+        <div class="Right">
+            <button class="btn">Call Us Now</button>
+            <button class="btn">Email us</button>
+        </div>
+    </header>
+    <div class="container">
+        <h1>One page promising to feed all your needs</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat voluptatem esse, quibusdam ea possimus
+            itaque optio mollitia, aspernatur dolores om</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae debitis veritatis at ipsam quibusdam
+            praesentium ab, a fugit minus molestiae repellendus, aspernatur nostrum amet mollitia saepe unde. Vitae,
+            voluptatibus pariatur!</p>
+        <button class="btn">Learn more</button>
+        <form action="noaction.php">
+            <div class="form-group">
+                <input type="text" name="" placeholder="Enter your Name">
+            </div>
+            <div class="form-group">
+                <input type="text" name="" placeholder="Enter your Phone Number">
+            </div>
+            <button class="btn">Submit</button>
+            <h1 class="h-secondary-center">Our services</h1>
+        </form>
+
+        </section>
+        <section class="product">
+            <div class="product-list-item">
+                <img class="img-responsive" src="img1.jpg" alt="">
+                <h2 class="product heading">
+                    Project name
+                </h2>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Autem hic excepturi illo. Vel est dolores,
+                    libero repudiandae eaque atque aperiam, non molestias quidem hic neque accusantium temporibus
+                    sapiente saepe debitis!</p>
+                <button class="btn">Launch case study</button>
+            </div>
+
+            <div class="product-list-item">
+                <img class="img-responsive" src="img2.jpg" alt="">
+                <h2 class="product heading">
+                    Project name
+                </h2>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Autem hic excepturi illo. Vel est dolores,
+                    libero repudiandae eaque atque aperiam, non molestias quidem hic neque accusantium temporibus
+                    sapiente saepe debitis!</p>
+                <button class="btn">Launch case study</button>
+            </div>
+
+            <div class="product-list-item">
+                <img class="img-responsive" src="img3.jpg" alt="">
+                <h2 class="product heading">
+                    Project name
+                </h2>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Autem hic excepturi illo. Vel est dolores,
+                    libero repudiandae eaque atque aperiam, non molestias quidem hic neque accusantium temporibus
+                    sapiente saepe debitis!</p>
+                <button class="btn">Launch case study</button>
+            </div>
+            
+            <div class="product-list-item">
+                <img class="img-responsive" src="img4.jpg" alt="">
+                <h2 class="product heading">
+                    Project name
+                </h2>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Autem hic excepturi illo. Vel est dolores,
+                    libero repudiandae eaque atque aperiam, non molestias quidem hic neque accusantium temporibus
+                    sapiente saepe debitis!</p>
+                <button class="btn">Launch case study</button>
+            </div>
+
+        </section>
+        <hr>
+        <h3>Pricing Table</h3>
+        <table>
+            <thead>
+                <th>Standard plan</th>
+                <th>Business Plan</th>
+                <th>Premium plan</th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Free</td>
+                    <td>hghsbxzhshbx</td>
+                    <td>jhsabxhgssd</td>
+                </tr>
+                <tr>
+                    <td>14$ per month</td>
+                    <td>15$ per month</td>
+                    <td>19$ per month</td>
+                </tr>
+                <tr>
+                    <td>vasgnv</td>
+                    <td>hhhhhajjj</td>
+                    <td>jcbhCVg</td>
+
+                </tr>
+                <td valign="bottom" align="right">
+                    <button id="someButton">
+                        Buy Now
+                    </button>
+                </td>
+                <td valign="bottom" align="right">
+                    <button id="someButton">
+                        Buy Now
+                    </button>
+                </td>
+                <td valign="bottom" align="right">
+                    <button id="someButton">
+                        Buy Now
+                    </button>
+                </td>
+            </tbody>
+        </table>
+        <hr>
+        <h1> Video Projects</h1>
+        <video width="400" height="300" controls>
+            <source src="video1.mp4" type="video/mp4">
+            Your browser does not support this video tag
+        </video>
+        <video  width="400" height="300" controls>
+            <source src="video2.mp4" type="video/mp4">
+            Your browser does not support this video tag
+        </video>
+        <video width="400" height="300" controls>
+            <source src="video3.mp4" type="video/mp4">
+            Your browser does not support this video tag
+        </video>
+        <video width="400" height="300" controls>
+            <source src="video4.mp4" type="video/mp4">
+            Your browser does not support this video tag
+        </video>
+        <video width="400" height="300" controls>
+            <source src="video5.mp4" type="video/mp4">
+            Your browser does not support this video tag
+        </video>
+            <div class="team-section">
+            <h1>Our Team</h1>
+            <span class="border"></span>
+            <div class="ps">
+                <a href="#p1"><img src="frame1.jpg" alt=""></a>
+                <a href="#p2"><img src="frame2.jpg" alt=""></a>
+                <a href="#p3"><img src="frame3.jpg" alt=""></a>
+                <a href="#p3"><img src="frame1.jpg" alt=""></a>
+                <a href="#p3"><img src="frame2.jpg" alt=""></a>
+            </div>
+            <div class="section" id="p1">
+                <span class="name">jay shgd</span>
+                <span class="border"></span>
+
+            </div>
+            <div class="section" id="p2">
+                <span class="name">leo dnd</span>
+                <span class="border"></span>
+            </div>
+            <div class="section" id="p3">
+                <span class="name">geeta</span>
+                <span class="border"></span>
+            </div>
+        </div>
+        <div class="footer-container">
+            <div class="social media">
+                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+                <a href="#"><i class="fab fa-instagram"></i></a>
+                <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                <a href="#"><i class="fab fa-youtube"></i></a>
+            </div>
+            <p class="left-text">0 2020 created by poonam All rights reserved</p>
+        </div>
+        <div class="right-col">
+            <h1>Our newsletter</h1>
+            <div class="border"></div>
+            <p>Enter your Email to get our news and updates</p>
+            <form action="" class="newsletter form">
+                <input type="text" class="txtb" placeholder="Enter your email">
+                <input type="submit" class="button" value="submit">
+
+
+            </form>
+        </div>
+
+        
+
+
+
+</body>
+
+</html>
